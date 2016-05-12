@@ -1,0 +1,5 @@
+##code by ccorz,Blog:http://www.cnblogs.com/ccorz/,Mail:ccniubi@163.com
+1.本程序用来查询中国7个大区中所有省份,以及省份所属的城市,城市的公司
+2.用户选择时,只需输入对应的数字即可查询
+3.用户选择b返回上一次查询
+4.用户选择q退出查询程序
